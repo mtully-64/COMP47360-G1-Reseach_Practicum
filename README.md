@@ -272,11 +272,11 @@ GET /api/analytics/recent-activity
 ## The Team
 
 - **Backend Team Lead**: Mark Tully
-- **Data Analytics Lead**: Rahul Murali
+- Rahul Murali
+- Dharnesh Vasudev Indumathi Ramesh Kumar
 - **Frontend Lead**: Diviyya Shree Iyappan
-- **Maintenance Lead**: Dharnesh Vasudev Indumathi Ramesh Kumar
-- **Customer Lead**: Phirada Kanjanangkuplpunt
-- **Coordination Lead**: Ting Li
+- Phirada Kanjanangkuplpunt
+- Ting Li
 
 ## License
 
