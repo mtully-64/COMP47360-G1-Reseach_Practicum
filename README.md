@@ -1,8 +1,10 @@
+
+
+https://github.com/user-attachments/assets/971626d8-e03b-4b80-a749-0b7a66c2ef5c
+
 # Manhattan Muse 🎨🗽
 
 A location recommendation system for artists in Manhattan that suggests optimal locations for artistic activities based on crowd levels and past event data for the creative disciplines.
-
-<video src="videos/ManhattanMuseDemo.mp4" controls width="100%"></video>
 
 ## Project Overview
 
