@@ -2,6 +2,8 @@
 
 A location recommendation system for artists in Manhattan that suggests optimal locations for artistic activities based on crowd levels and past event data for the creative disciplines.
 
+<video src="videos/ManhattanMuseDemo.mp4" controls width="100%"></video>
+
 ## Project Overview
 
 Manhattan Muse is a summer research project that creates a web application to help artists find the perfect spots in Manhattan to perform their artistic activities. Users input their activity type, preferred date/time, and receive personalized location recommendations with real-time weather forecasts.
